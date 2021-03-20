@@ -15,7 +15,7 @@ coverage.
 
 2. Clone this repository into your new directory
 
-    ```git clone https://github.com/edmundsj/template.git <MODULE_NAME>```
+    ```git clone https://github.com/edmundsj/<MODULE_NAME>.git <MODULE_NAME>```
 
 2. Set github pages to use the ``docs/`` folder for github pages at the bottom of the "Settings" page
 

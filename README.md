@@ -34,7 +34,7 @@ coverage.
 
 
 Done! Your repository should be viewable on github pages: 
-https://edmundsj.github.io/REPO_NAME/
+https://edmundsj.github.io/REPO_NAME/, and your code coverage should be available on codecov.io
 
 * Note - since the package does not already exist on pyPi or testPyPi you will need to create a token that has access to all your projects. This obviously isn't an optimal way of doing things, and this should really be changed. I may want to add a setup script which does all the renaming, changes github hooks, and does an initial deploy to pypi and testpypi. If you want after the first push, you can create a new token restricted to the newly-pushed project.
 
